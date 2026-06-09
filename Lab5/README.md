@@ -21,7 +21,7 @@ For a 2-bit comparator with inputs A = A1A0 and B = B1B0:
 ---
 
 ## Output
-![Output of comparator](output.png)
+![Output of comparator](Output.png)
 
 ---
 

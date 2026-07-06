@@ -43,9 +43,9 @@
 
 ## Output
 **BCD TO XS3**
-![Output of BCD TO XS3](Output1.png)
+![Output of BCD TO XS3](output1.png)
 **Binary To Gray**
-![Output of binary to gray](Output2.png)
+![Output of binary to gray](output2.png)
 
 
 

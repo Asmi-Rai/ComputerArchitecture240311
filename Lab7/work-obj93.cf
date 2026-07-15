@@ -1,0 +1,16 @@
+v 4
+file . "ff_tb.vhd" "f7b6ed6070da43e9cca6b2b0d5362bf01a0d373b" "20260715152142.826":
+  entity ff_tb at 1( 0) + 0 on 23;
+  architecture simulation of ff_tb at 7( 85) + 0 on 24;
+file . "t_ff.vhd" "bd5f8fb2fc08dc27c239a01a28c98683622c0ca7" "20260715152131.437":
+  entity t_ff at 1( 0) + 0 on 19;
+  architecture behavioral of t_ff at 11( 212) + 0 on 20;
+file . "jk_ff.vhd" "a0c63a25cbf134e276108cd6c296a2b90c3f374c" "20260715152116.080":
+  entity jk_ff at 1( 0) + 0 on 15;
+  architecture behavioral of jk_ff at 14( 250) + 0 on 16;
+file . "sr_ff.vhd" "5ad721532a9041ef0aa9fe42c2c352b3c84761a0" "20260715152124.854":
+  entity sr_ff at 1( 0) + 0 on 17;
+  architecture behavioral of sr_ff at 14( 250) + 0 on 18;
+file . "d_ff.vhd" "8ea9a6187bec8418becd1783e422992886f64711" "20260715152135.558":
+  entity d_ff at 1( 0) + 0 on 21;
+  architecture behavioral of d_ff at 13( 220) + 0 on 22;
